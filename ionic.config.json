@@ -1,0 +1,7 @@
+{
+  "name": "examen_Luis_Navarrete",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
